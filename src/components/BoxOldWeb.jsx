@@ -2,7 +2,7 @@
 const BoxOldWeb = () => {
 	return (
 		<div id="BoxOldWeb">
-			<a href="kodam.html">
+			<a href="https://sepuluhenamx6.github.io/cek-kodam/">
 				<div className="flex justify-between">
 					<img src="/link.png" alt="" className="w-auto h-6" />
 					<img src="/next.png" alt="" className="h-3 w-3" />
