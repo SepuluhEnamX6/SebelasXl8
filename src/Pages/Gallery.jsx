@@ -11,10 +11,10 @@ import { useSpring, animated } from "@react-spring/web";
 
 const Carousel = () => {
   const [images] = useState([
-    "/xi8foto/foto1.jpg",
-    "/xi8foto/foto2.jpg",
-    "/xi8foto/foto3.jpg",
-    "/bg1.jpg"
+    "/foto1.jpg",
+    "/foto2.jpg",
+    "/foto3.jpg",
+    "/bg2.jpg"
   ]);
   const [open, setOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
