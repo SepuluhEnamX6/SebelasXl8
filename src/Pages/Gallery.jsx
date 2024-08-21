@@ -12,10 +12,10 @@ import { useSpring, animated } from "@react-spring/web"
 const Carousel = () => {
 	const [images] = useState([
 		// Tambahkan jalur gambar lokal atau URL yang di-hardcode di sini
-		"/xi8foto/foto1.jpg",
+		"/foto1.jpg",
 		"/xi8foto/foto2.jpg",
 		"/xi8foto/foto3.jpg",
-		"public/bg1.jpg"
+		"/public/bg1.jpg"
 		
 	])
 	const [open, setOpen] = useState(false)
