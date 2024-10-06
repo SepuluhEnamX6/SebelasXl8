@@ -15,7 +15,8 @@ const Carousel = () => {
     "/foto2.jpg",
     "/foto3.jpg",
     "/poster.jpg",
-    "/foto12.jpg"
+    "/foto12.jpg",
+    "pengajian.jpg
   ]);
   const [open, setOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
